@@ -1,2 +1,2 @@
 # Google-Clone
-Clone de Google con Platzi
+Interfaz de Google-Chrome
